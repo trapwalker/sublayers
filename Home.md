@@ -7,3 +7,4 @@
 ## [Легенда](legend)
 ## [Геймплей](gameplay)
 ## [Банк идей](features)
+## [Баланс](balancing)
